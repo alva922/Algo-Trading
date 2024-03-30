@@ -1,4 +1,5 @@
 #https://github.com/Nikhil-Adithyan/Algorithmic-Trading-with-Python/blob/main/Advanced%20Strategies/ADX_RSI.py
+#https://medium.com/@alexzap922/algo-trading-nvidia-with-adx-rsi-indicators-4a82e3c7d99c
 import os
 os.chdir('YOURPATH')    # Set working directory
 os. getcwd()
