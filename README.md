@@ -4,4 +4,6 @@ Credits:
 https://github.com/Nikhil-Adithyan/Algorithmic-Trading-with-Python
 https://medium.com/@alexzap922/algo-trading-nvidia-with-adx-rsi-indicators-4a82e3c7d99c
 https://medium.com/@alexzap922/algo-trading-nvidia-with-williams-r-macd-indicators-a85dcd70c8cb
+https://medium.com/@alexzap922/algo-trading-nvidia-with-donchian-channels-f19f72b491d2
+https://medium.com/@syahmisamsudinn/building-a-simple-breakout-trading-system-using-python-6dec26d2a7e4
 
