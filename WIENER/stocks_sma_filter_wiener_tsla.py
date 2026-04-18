@@ -254,7 +254,7 @@ rets_cum.plot(color = 'blue', alpha = 0.3, linewidth = 7)
 strat_cum.plot(color = 'r', linewidth = 2)
 plt.show()
 
-plt.plot(aapl['close'], label = 'aapl', linewidth = 5, alpha = 0.3)
+plt.plot(aapl['close'], label = 'TSLA', linewidth = 5, alpha = 0.3)
 plt.plot(aapl['sma_5'], label = 'WFMA 5')
 plt.plot(aapl['sma_10'], label = 'WFMA 10')
 plt.title('TSLA WFMA (5, 10)')
